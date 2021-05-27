@@ -1,4 +1,4 @@
-# QEMU on MacOS scripts and tips
+# Scripts and notes for running QEMU VMs on MacOS
 
 * See bin directory for example scripts. Modify the variables before running the scripts.
 
